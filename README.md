@@ -131,8 +131,6 @@ This project includes:
 ### 🟨 **Resident Portal**
 ![Student Dashboard](./assets/Screenshot-Student.png)
 
-> Replace the image paths after placing your screenshots inside a folder like `/assets`.
-
 ---
 
 ## ⚙️ Installation
